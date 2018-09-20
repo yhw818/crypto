@@ -9,3 +9,7 @@ AES ecb/cbc
 ### rsa.cpp
 
 a demo of rsa encryption and decryption
+
+### dgst.cpp
+
+sign/verify
